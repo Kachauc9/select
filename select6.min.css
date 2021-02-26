@@ -28,7 +28,7 @@
 .select2-container .select2-selection--single .select2-selection__clear {
   background-color: transparent;
   border: none;
-  font-size: 18px;
+  font-size: 14px;
 }
 
 .select2-container[dir="rtl"] .select2-selection--single .select2-selection__rendered {
@@ -41,7 +41,7 @@
   cursor: pointer;
   display: block;
   min-height: 32px;
-  width: auto;
+  width: 100%;
   user-select: none;
   -webkit-user-select: none;
 }
@@ -55,7 +55,7 @@
 .select2-container .select2-selection--multiple .select2-selection__clear {
   background-color: transparent;
   border: none;
-  font-size: 18px;
+  font-size: 14px;
 }
 
 .select2-container .select2-search--inline .select2-search__field {
@@ -241,7 +241,7 @@
   background-color: white;
   box-shadow: 0 1px 9px 2px rgb(0 163 224 / 40%);
   border: 0px;
-  font-size: 18px;
+  font-size: 14px;
   border-radius: 6px;
   cursor: pointer;
   width: auto;
@@ -284,7 +284,7 @@
   border-bottom-left-radius: 4px;
   color: #999;
   cursor: pointer;
-  font-size: 18px;
+  font-size: 14px;
   font-weight: medium;
   padding: 0 4px;
 }
@@ -573,7 +573,7 @@
   border-bottom-left-radius: 4px;
   color: #888;
   cursor: pointer;
-  font-size: 18px;
+  font-size: 14px;
   font-weight: medium;
   padding: 0 4px;
 }

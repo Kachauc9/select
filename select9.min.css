@@ -41,7 +41,8 @@
   cursor: pointer;
   display: block;
   min-height: 32px;
-  width: 100%;
+  width: 18vw;
+  max-width: 260px;
   user-select: none;
   -webkit-user-select: none;
 }
@@ -245,7 +246,7 @@
   border-radius: 6px;
   cursor: pointer;
   width: 18vw;
-  width-max: 260px;
+  max-width: 260px;
   padding-bottom: 8px;
   padding-top: 4px;
   padding-right: 12px;
@@ -257,8 +258,8 @@
   float: right;
   font-weight: medium;
   height: 20px;
+  max-width: 260px;
   width: 18vw;
-  width-max: 260px;
   margin-right: 10px;
   margin-top: 5px;
   padding: 1px;
@@ -267,8 +268,8 @@
 .select2-container--default .select2-selection--multiple .select2-selection__choice {
   background-color: #fff;
   border: 1px solid #aaa;
-  border-radius: 6px;
-  display: inline;
+  border-radius: 4px;
+  display: inline-block;
   margin-left: 5px;
   margin-top: 5px;
   padding: 0;
@@ -542,7 +543,7 @@
   border-radius: 6px;
   cursor: pointer; 
   width: 18vw;
-  width-max: 260px;
+  max-width: 260px;
   font-size: 14px;
   outline: 0;
   padding-bottom: 5px;

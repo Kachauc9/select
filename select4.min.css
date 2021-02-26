@@ -241,11 +241,12 @@
   background-color: white;
   box-shadow: 0 1px 9px 2px rgb(0 163 224 / 40%);
   border: 0px;
+  font-size: 18px;
   border-radius: 6px;
   cursor: pointer;
   width: auto;
-  padding-bottom: 5px;
-  padding-right: 5px;
+  padding-bottom: 8px;
+  padding-right: 10px;
 }
 
 .select2-container--default .select2-selection--multiple .select2-selection__clear {

@@ -245,9 +245,9 @@
   border-radius: 6px;
   cursor: pointer;
   width: 18vw;
-  width-max: 300px;
+  width-max: 260px;
   padding-bottom: 8px;
-  padding-top: 8px;
+  padding-top: 4px;
   padding-right: 12px;
   padding-left: 12px
 }
@@ -257,7 +257,8 @@
   float: right;
   font-weight: medium;
   height: 20px;
-  width: auto;
+  width: 18vw;
+  width-max: 260px;
   margin-right: 10px;
   margin-top: 5px;
   padding: 1px;
@@ -267,7 +268,7 @@
   background-color: #fff;
   border: 1px solid #aaa;
   border-radius: 6px;
-  display: block;
+  display: inline;
   margin-left: 5px;
   margin-top: 5px;
   padding: 0;
@@ -539,7 +540,10 @@
   border: 0px solid #aaa;
   box-shadow: 0 1px 9px 2px rgb(0 163 224 / 40%);
   border-radius: 6px;
-  cursor: pointer;
+  cursor: pointer; 
+  width: 18vw;
+  width-max: 260px;
+  font-size: 14px;
   outline: 0;
   padding-bottom: 5px;
   padding-right: 5px;

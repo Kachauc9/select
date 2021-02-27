@@ -248,7 +248,6 @@
   width: 18vw;
   max-width: 260px;
   padding-bottom: 8px;
-  padding-top: 4px;
   padding-right: 12px;
   padding-left: 12px
 }
@@ -270,6 +269,8 @@
   border: 1px solid #aaa;
   border-radius: 4px;
   display: inline-block;
+  width: 18vw;
+  max-width: 260px;
   margin-left: 5px;
   margin-top: 5px;
   padding: 0;

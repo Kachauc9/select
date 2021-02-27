@@ -74,13 +74,15 @@
 
 .select2-dropdown {
   background-color: white;
+  font-size: 14px;
   border: 1px solid #aaa;
   border-radius: 0px;
   box-sizing: border-box;
   display: block;
   position: absolute;
   left: -100000px;
-  width: 100%;
+  width: 18vw;
+  max-width: 260px;
   z-index: 1051;
 }
 
@@ -247,7 +249,7 @@
   cursor: pointer;
   width: 18vw;
   max-width: 260px;
-  height: 38px;
+  min-height: 38px;
   padding-bottom: 8px;
   padding-right: 12px;
   padding-left: 12px

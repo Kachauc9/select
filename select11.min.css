@@ -247,6 +247,7 @@
   cursor: pointer;
   width: 18vw;
   max-width: 260px;
+  height: 38px;
   padding-bottom: 8px;
   padding-right: 12px;
   padding-left: 12px
@@ -269,8 +270,6 @@
   border: 1px solid #aaa;
   border-radius: 4px;
   display: inline-block;
-  width: 18vw;
-  max-width: 260px;
   margin-left: 5px;
   margin-top: 5px;
   padding: 0;
